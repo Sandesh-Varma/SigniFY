@@ -74,6 +74,6 @@ Contributions to SigniFY are encouraged and appreciated! Whether you're a develo
 
 ## Contact
 
-For questions or inquiries about SigniFY, please reach out to the project maintainers at [kushwahanimish@gmail.com](mailto:kushwahanimish@gmail.com), [bikrantpandit07@gmail.com](mailto:bikrantpandit07@gmail.com).
+For questions or inquiries about SigniFY, please reach out to the project maintainers at [kushwahanimish@gmail.com](mailto:kushwahanimish@gmail.com), [bikrantpandit07@gmail.com](mailto:bikrantpandit07@gmail.com), [msandeshvarma@gmail.com](mailto:msandeshvarma@gmail.com).
 
 Thank you for your interest in SigniFY! Together, we can make technology more accessible for everyone.
